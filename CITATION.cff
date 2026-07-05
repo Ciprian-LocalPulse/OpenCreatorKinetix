@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use OpenCreatorKinetix in research, education, or public work, please cite it."
+title: "OpenCreatorKinetix"
+version: "0.1.0"
+date-released: "2026-07-05"
+license: "MIT"
+authors:
+  - family-names: "Plesca"
+    given-names: "Ciprian Stefan"

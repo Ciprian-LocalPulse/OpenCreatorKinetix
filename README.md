@@ -1,8 +1,20 @@
 # OpenCreatorKinetix
 
+![OpenCreatorKinetix RevOps Julia command center](assets/revops-julia.png)
+
 OpenCreatorKinetix is an open-source training engine for creators who want to improve retention, narrative clarity, and publishing discipline through progressive overload.
 
 The project does not promise viral shortcuts. It treats creator skill like strength training: measure the weak point, prescribe a hard exercise, increase the load, deload when necessary, and repeat until the skill becomes durable.
+
+Created by **Ciprian Stefan Plesca**.
+
+## Public Repository Description
+
+OpenCreatorKinetix is a Julia and Scheme research engine for creator training, audience retention, symbolic narrative analysis, RevOps discipline, progressive overload, and measurable content skill acquisition.
+
+Suggested GitHub topics:
+
+`julia`, `scheme`, `creator-economy`, `revops`, `progressive-overload`, `audience-retention`, `attention-modeling`, `symbolic-ai`, `content-creation`, `ab-testing`, `analytics`, `training-engine`, `open-source`, `education`, `mit-license`
 
 ## Why This Exists
 
@@ -125,6 +137,8 @@ The project includes a simple planning utility for variant tests. It estimates m
 ## Repository Layout
 
 ```text
+assets/
+  revops-julia.png       repository visual identity
 src/
   OpenCreatorKinetix.jl  package entry point
   attention.jl           numerical retention model
@@ -142,6 +156,11 @@ docs/
   architecture.md
   math.md
   protocol-dsl.md
+CREATOR.md
+AUTHORS.md
+SECURITY.md
+CHANGELOG.md
+SUPPORT.md
 test/
   runtests.jl
 ```
