@@ -1,0 +1,13 @@
+name = "OpenCreatorKinetix"
+uuid = "d4de6f2f-8577-4bf4-b3d6-8bce63f1e5a8"
+authors = ["Open Creator Kinetix Contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

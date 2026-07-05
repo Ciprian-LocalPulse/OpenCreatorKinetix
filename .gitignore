@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.jl.cov
+*.jl.*.cov
+*.ji
+Manifest.toml
+docs/build/
+coverage/
+.vscode/
+.idea/
