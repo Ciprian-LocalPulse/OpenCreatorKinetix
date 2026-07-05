@@ -181,3 +181,68 @@ This is an initial research-grade foundation, not a finished commercial product.
 ## License
 
 MIT. Use it, fork it, test it, and make it sharper.
+<div align="center">
+
+## 💚 Support
+
+This project is developed and maintained independently, without institutional funding.
+
+If you found it useful, you can donate through any of the channels below.
+
+</div>
+
+<table align="center">
+<tr><td colspan="2" align="center">
+
+### 🇪🇺 European Payment — SEPA / EUR <sub>· CEA · AES-256</sub>
+
+| Field | Detail |
+|---|---|
+| Recipient | Ciprian Stefan Plesca |
+| IBAN | `BE83 9679 1975 8915` |
+| SWIFT / BIC | `TRWIBEB1XXX` |
+| Bank | Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium |
+
+</td></tr>
+<tr><td colspan="2" align="center">
+
+### 🇬🇧 United Kingdom Payment — Faster Payments / GBP <sub>· AIA · SHA-3</sub>
+
+| Field | Detail |
+|---|---|
+| Container | Ciprian Stefan Plesca |
+| Account number | `92055372` |
+| Sort code | `23-14-70` |
+| IBAN | `GB68 TRWI 2314 7092 0553 72` |
+| SWIFT / BIC | `TRWIGB2LXXX' |
+| Bank | Wise Payments Limited, 1st Floor, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom |
+
+</td></tr>
+<tr><td colspan="2" align="center">
+
+### 🇺🇸 United States Payment — ACH / Wire / USD <sub>· ICA · RSA-4096</sub>
+
+| Field | Detail |
+|---|---|
+| Container | Ciprian Stefan Plesca |
+| Account type | Checking |
+| Routing number | `026073150` |
+| Account number | `8314225367` |
+| SWIFT / BIC | `CMFGUS33` |
+| Bank | Community Federal Savings Bank, 89-16 Jamaica Ave, Woodhaven, NY, 11421, United States |
+
+</td></tr>
+</table>
+
+<div align="center">
+
+| ₿ Bitcoin (BTC) | Ξ Ethereum (ETH) | PP PayPal |
+|---|---|---|
+| `bc1qf3yy0w8z37rwavxpu38wem3yffpanw7wzj32qj` | `0x27d9a6a5b8507e6031bb044319410da96222d402` | [paypal.me/agentflowenterprise](https://paypal.me/agentflowenterprise) |
+
+<br/>
+
+
+<sub>Made with ☕ and too much entropy, independently, in Romania.</sub>
+
+</div>
